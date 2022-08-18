@@ -1,1 +1,1 @@
-# tailwind-doggo-city
+# Tailwind Doggo City
